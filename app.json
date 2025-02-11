@@ -1,0 +1,16 @@
+{
+  "name": "Dossiay",
+  "displayName": "Dossiay",
+  "icon": "./modules/assets/dossiay_square_dark.png",
+  "scheme": "dossiay",
+  "splash": {
+    "backgroundColor": "#FFFFFF",
+    "image": "./modules/assets/dossiay_square_dark.png"
+  },
+  "android": {
+    "package": "com.dossiay.app"
+  },
+  "ios": {
+    "bundleIdentifier": "com.dossiay.app"
+  }
+}
